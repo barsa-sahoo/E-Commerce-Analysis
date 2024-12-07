@@ -66,7 +66,7 @@ The dashboard presents a detailed analysis of an e-commerce platform's sales per
 - Top 5 High-Spending Customers: Jacqueline F. ranks highest, with purchases totaling 443K, followed by Toby Richard (421K). These customers contribute significantly to overall revenue.
 
 **Operational Insights:**
-On-Time Deliveries: Only 24.80% of deliveries are on time, indicating a major area for operational improvement. Delivery Time has an average delivery time of 10 days might be impacting customer experience, especially in competitive markets.
+- On-Time Deliveries: Only 24.80% of deliveries are on time, indicating a major area for operational improvement. Delivery Time has an average delivery time of 10 days might be impacting customer experience.
 
 
 
