@@ -22,7 +22,7 @@ The objective of this project is to analyze and visualize sales trends, customer
 The project was executed in three key stages:
 - ***Data Extraction:*** Queried e-commerce data using MySQL to retrieve and focused on tables like Orders, Customers, Products.
 - ***Exploratory Data Analysis (EDA):*** Performed detailed analysis to understand sales performance, order behavior, and shipping delays using Python (matplotlib, seaborn).
-- ***Insights Dashboard:*** Created an Sales dashboard using Power BI to visualize our findings comprehensively.
+- ***Insights Dashboard:*** Created an Sales dashboard using Power BI to visualize the findings comprehensively.
 
 
 ## Tech Stack
@@ -67,6 +67,9 @@ The dashboard presents a detailed analysis of an e-commerce platform's sales per
 
 **Operational Insights:**
 - On-Time Deliveries: Only 24.80% of deliveries are on time, indicating a major area for operational improvement. Delivery Time has an average delivery time of 10 days might be impacting customer experience.
+
+
+
 
 
 
