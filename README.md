@@ -20,9 +20,9 @@ The objective of this project is to analyze and visualize sales trends, customer
 
 ## Project Approach
 The project was executed in three key stages:
-- Data Extraction: Queried e-commerce data using MySQL to retrieve and focused on tables like Orders, Customers, Products.
-- Exploratory Data Analysis (EDA): Performed detailed analysis to understand sales performance, order behavior, and shipping delays using Python (matplotlib, seaborn).
-- Insights Dashboard: Created an Sales dashboard using Power BI to visualize our findings comprehensively.
+- ***Data Extraction:*** Queried e-commerce data using MySQL to retrieve and focused on tables like Orders, Customers, Products.
+- ***Exploratory Data Analysis (EDA):*** Performed detailed analysis to understand sales performance, order behavior, and shipping delays using Python (matplotlib, seaborn).
+- ***Insights Dashboard:*** Created an Sales dashboard using Power BI to visualize our findings comprehensively.
 
 
 ## Tech Stack
@@ -47,7 +47,7 @@ The exploratory data analysis (EDA) section provides detailed visualizations to 
 ## Insights Dashboard Overview
 ![alt text](Assets/dashboard_image.png)
 
-The dashboard presents a detailed analysis of an e-commerce platform's sales performance over two years (2020–2021). It provides insights into key metrics, sales trends, customer behavior, and product performance. The following insights:
+The dashboard presents a detailed analysis of an e-commerce platform's sales performance over two years (2020–2021). The following insights are:
 
 **Key Metrics:**
 - Total Sales: 93M
@@ -56,8 +56,8 @@ The dashboard presents a detailed analysis of an e-commerce platform's sales per
 - Average Delivery Time: 10 days
 
 **Performance Analysis:**
-- Total Sales Trend: Sales have shown a significant upward trend from January 2020 to July 2021. This growth suggests a steady increase in customer engagement and product demand.
-- Order Frequency: One-Time Buyers: Only 0.19% of total customers, indicating a very high customer retention rate. Repeat Buyers: 99.81%, showing strong loyalty and satisfaction among customers.
+- Total Sales Trend: Sales have shown a significant upward trend from January 2020 to end of 2021. This growth suggests a steady increase in customer engagement and product demand.
+- Order Frequency: One-Time Buyers (Only 0.19% of total customers), indicating a very high customer retention rate and Repeat Buyers (99.81%), showing strong loyalty and satisfaction among customers.
 - Top Brands by Quantity Sold: BB Home leads with 4.7K units sold, followed by bb Royal (3.7K) and Fresho (3.2K). This highlights BB Home’s strong market presence in terms of product popularity.
 - Top Categories by Sales: Beauty & Hygiene dominates with 34M in sales followed by Kitchen, Garden & Pets (20M) and Gourmet & World Food (15M), showcasing the diversity of customer preferences.
 
